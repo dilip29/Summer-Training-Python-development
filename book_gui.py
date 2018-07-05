@@ -96,22 +96,23 @@ class Ui_Form(object):
             mycursor.execute("select price from book where title='"+title+"'")
             y=mycursor.fetchone()
             
-            price=(y[0])
-            self.t2.setText(str(price))
+            self.price=(y[0])
+            self.t2.setText(str(self.price))
         else:
             self.t2.setText("Book not found")
 
     def total(self):
-        mybook=sqlite3.connect('bookstores.db')
-        mycursor=mybook.cursor()        
-        qnty=int(self.t3.text())
-        title=self.t1.text()
-        mycursor.execute("select price from book where title='"+title+"'")
-        y=mycursor.fetchone()
+       # mybook=sqlite3.connect('bookstores.db')
+        #mycursor=mybook.cursor()        
+        self.qnty=int(self.t3.text())
+        #title=self.t1.text()
+        #mycursor.execute("select price from book where title='"+title+"'")
+        #y=mycursor.fetchone()
             
-        price=(y[0])        
+        #self.price=int((self.t2.text()))        
         #print(title)
-        self.t4.setText(str(price*qnty))
+        ttl=self.price*self.qnty
+        self.t4.setText(str(ttl))
         
                 
             
