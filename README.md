@@ -45,6 +45,10 @@ You're sections headers will be used to reference location of destination.
   * Only a Single Wicket Keeper
 
 
+![open_team](https://user-images.githubusercontent.com/40792388/48671417-d5656000-eb4d-11e8-8213-22cf1dfe20e2.gif)
+
+
+
 
 
 ## Installation
