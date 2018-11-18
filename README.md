@@ -45,6 +45,7 @@ You're sections headers will be used to reference location of destination.
   * Only a Single Wicket Keeper
 
 
+
 ## Installation
 * install `PyQt5` python library using pip
 ```python
@@ -56,9 +57,9 @@ or
 pip3 install PyQt5
 
 ```
-* install SqliteStudio for creating database for the `teams` , `players` , `stats`
+* Install SqliteStudio for creating database for the `teams` , `players` , `stats`
 
-- Download Sqlite Studio - [sqlitestudio](https://sqlitestudio.pl/index.rvt)
+- Download Sqlite Studio - [Sqlitestudio](https://sqlitestudio.pl/index.rvt)
 
 
 
