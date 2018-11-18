@@ -93,7 +93,7 @@ git clone https://github.com/dilip29/Summer-Training-Python-development/
 ```
 * install the required tools 
 
-* clone or download the repository 
+* fork or download the repo 
 
 * run the following command in terminal
 
