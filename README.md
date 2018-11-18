@@ -120,7 +120,7 @@ python3 fantasy.py
 * [Internshala-Summer-Trainings](https://trainings.internshala.com/python-training)
 * [Python](https://www.python.org/)
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#fantasy-cricket-application)
 
 ---
 
