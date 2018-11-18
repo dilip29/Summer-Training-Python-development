@@ -47,15 +47,15 @@ You're sections headers will be used to reference location of destination.
 
 ## Installation
 * install `PyQt5` python library using pip
-'''python
+```python
 pip install PyQt5
 
-'''
+```
 or
-'''python
+```python
 pip3 install PyQt5
 
-'''
+```
 
 
 
