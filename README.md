@@ -107,10 +107,16 @@ git clone https://github.com/dilip29/Summer-Training-Python-development/
 python3 fantasy.py
 ```
 
+
+![evaluate_team](https://user-images.githubusercontent.com/40792388/48671631-6c7fe700-eb51-11e8-9244-50fa02df77ea.gif)
+
+
+
+
 ## Tools
 ### References
 * [Atom](https://atom.io/)
-* [SqlitStudio](https://sqlitestudio.pl/index.rvt)
+* [SqliteStudio](https://sqlitestudio.pl/index.rvt)
 * [Internshala-Summer-Trainings](https://trainings.internshala.com/python-training)
 * [Python](https://www.python.org/)
 
