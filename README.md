@@ -71,7 +71,7 @@ pip3 install PyQt5
 
 
 
-[code](https://user-images.githubusercontent.com/40792388/48670940-042c0800-eb47-11e8-806a-5f8d76b803a9.gif)
+![code](https://user-images.githubusercontent.com/40792388/48670940-042c0800-eb47-11e8-806a-5f8d76b803a9.gif)
 
 
 
@@ -87,7 +87,7 @@ pip3 install PyQt5
    spacerItem = QtWidgets.QSpacerItem(200, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
 ```
 
-!
+
 
 
 
