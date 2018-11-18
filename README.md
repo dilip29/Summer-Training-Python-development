@@ -34,6 +34,11 @@ You're sections headers will be used to reference location of destination.
 
 - For more on these wonderful `badges`, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
+## Features
+  * Create your own dream team 
+  * Save your team and evaluate it later as per **Match**
+
+
 ## How To Use
 
 #### Installation
