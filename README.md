@@ -28,6 +28,7 @@ You're sections headers will be used to reference location of destination.
 
 ---
 
+### Use of Badges
 
 ## How To Use
 
