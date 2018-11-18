@@ -46,6 +46,7 @@ You're sections headers will be used to reference location of destination.
 
 
 
+
 ## Installation
 * install `PyQt5` python library using pip
 ```python
@@ -72,6 +73,16 @@ pip3 install PyQt5
   
    self.actionNEW_Team = QtWidgets.QAction(MainWindow)
    self.actionNEW_Team.setObjectName("actionNEW_Team")
+```
+```
+   team, ok=QtWidgets.QInputDialog.getItem(MainWindow,"Dream","Choose A Team",teams,0,False)
+   if ok and team:
+       self.t7.setText(team)
+
+   sql1="SELECT players,value from teams where name='"+team+"';"
+   cur=conn.execute(sql1)
+   row=cur.fetchone()
+
 ```
 ![code](https://user-images.githubusercontent.com/40792388/48670940-042c0800-eb47-11e8-806a-5f8d76b803a9.gif)
 
