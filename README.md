@@ -18,7 +18,7 @@ You're sections headers will be used to reference location of destination.
 - [Installation](#installation)
 - [Code Snippet](#code-snippet)
 - [Getting Started](#getting-started)
-- [Tools/References](#tools/references)
+- [Tools/References](#tools-references)
 
 
 
