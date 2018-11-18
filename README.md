@@ -31,8 +31,8 @@ You're sections headers will be used to reference location of destination.
 ### Use of Badges
 
 
-[![Badges](https://github.com/dilip29/Summer-Training-Python-development/labels/help%20wanted)
-
+[![Badges](https://github.com/dilip29/Summer-Training-Python-development/labels/help%20wanted)]
+[![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)]
 
 
 ## How To Use
