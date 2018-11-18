@@ -56,6 +56,8 @@ or
 pip3 install PyQt5
 
 ```
+* install SqliteStudio for creating database for the `teams` , `players` , `stats`
+
 
 
 
