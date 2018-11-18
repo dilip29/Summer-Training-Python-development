@@ -77,17 +77,10 @@ pip3 install PyQt5
   
    self.actionNEW_Team = QtWidgets.QAction(MainWindow)
    self.actionNEW_Team.setObjectName("actionNEW_Team")
+   self.horizontalLayout_2.addWidget(self.lw1)
+   spacerItem = QtWidgets.QSpacerItem(200, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
 ```
-```
-   team, ok=QtWidgets.QInputDialog.getItem(MainWindow,"Dream","Choose A Team",teams,0,False)
-   if ok and team:
-       self.t7.setText(team)
 
-   sql1="SELECT players,value from teams where name='"+team+"';"
-   cur=conn.execute(sql1)
-   row=cur.fetchone()
-
-```
 ![code](https://user-images.githubusercontent.com/40792388/48670940-042c0800-eb47-11e8-806a-5f8d76b803a9.gif)
 
 
