@@ -6,6 +6,7 @@
 
 ---
 
+
 ## Table of Contents
 You're sections headers will be used to reference location of destination.
 
@@ -17,20 +18,15 @@ You're sections headers will be used to reference location of destination.
 - [License](#license)
 
 
+
 ---
 
 ## Description
 > Fanatsy cricket is build in python using `Pyqt5` library specifically `QtCore`  `QtGui`  `QtWidgets` for **GUI** development and `SqliteStudio` for **Back end database connectivity**.
 
 
-#### Technologies
-
-- Technology 1
-- Technology 2
-
-[Back To The Top](#read-me-template)
-
 ---
+
 
 ## How To Use
 
