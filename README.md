@@ -58,6 +58,7 @@ pip3 install PyQt5
 ```
 * install SqliteStudio for creating database for the `teams` , `players` , `stats`
 
+- Download Sqlite Studio - [sqlitestudio](https://sqlitestudio.pl/index.rvt)
 
 
 
