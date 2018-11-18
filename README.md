@@ -6,10 +6,11 @@
 
 ---
 
-### Table of Contents
+## Table of Contents
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
+- [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -19,8 +20,8 @@ You're sections headers will be used to reference location of destination.
 ---
 
 ## Description
+> Fanatsy cricket is build in python using **Pyqt5** library for **GUI** development and **SqliteStudio** for back end connectivity.
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
 
 #### Technologies
 
