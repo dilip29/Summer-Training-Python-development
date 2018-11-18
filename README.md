@@ -124,15 +124,11 @@ python3 fantasy.py
 
 ---
 
+
+
 ## License
-
-[Back To The Top](#read-me-template)
-
 ---
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## Author Info
-
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
 
 [Back To The Top](#read-me-template)
