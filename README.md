@@ -49,11 +49,16 @@ You're sections headers will be used to reference location of destination.
 
 
 
-#### API Reference
+## Code Snippet
 
-```html
-    <p>dummy code</p>
+```python
+  self.horizontalLayout.addWidget(self.label)
+  spacerItem = QtWidgets.QSpacerItem(40, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
+  
+   self.actionNEW_Team = QtWidgets.QAction(MainWindow)
+   self.actionNEW_Team.setObjectName("actionNEW_Team")
 ```
+
 [Back To The Top](#read-me-template)
 
 ---
