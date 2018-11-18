@@ -61,9 +61,9 @@ You're sections headers will be used to reference location of destination.
    self.actionNEW_Team.setObjectName("actionNEW_Team")
 ```
 (![code](https://user-images.githubusercontent.com/40792388/48670940-042c0800-eb47-11e8-806a-5f8d76b803a9.gif)
-)
 
-[Back To The Top](#read-me-template)
+
+
 
 ---
 
