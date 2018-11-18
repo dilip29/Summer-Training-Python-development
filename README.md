@@ -14,6 +14,7 @@ You're sections headers will be used to reference location of destination.
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Code Snippet](#code-snippet)
 - [Contributing](#contributing)
 - [License](#license)
 
