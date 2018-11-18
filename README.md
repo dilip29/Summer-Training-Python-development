@@ -39,8 +39,8 @@ You're sections headers will be used to reference location of destination.
   * Save your team and evaluate it later as per **Match**
   * Initially a Owner will be provided with `1000 Points` to purchase there players
   * Team selection follows basic cricketing rules 
-  ..1.Not more than 5 batsman/bowler
-  ..2.Only a Single Wicket Keeper
+  ..1. Not more than 5 batsman/bowler
+  ..2. Only a Single Wicket Keeper
 
 
 ## How To Use
