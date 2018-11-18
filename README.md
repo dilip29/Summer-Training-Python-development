@@ -1,4 +1,4 @@
-# Fanatsy Cricket Application
+# Fantasy Cricket Application
 
 ![fanatsy_cricket](https://user-images.githubusercontent.com/40792388/48671048-56b9f400-eb48-11e8-9a7a-ce62e3c40a58.png)
 
@@ -120,7 +120,7 @@ python3 fantasy.py
 * [Internshala-Summer-Trainings](https://trainings.internshala.com/python-training)
 * [Python](https://www.python.org/)
 
-[Back To The Top](#Fantasy-Cricket-Application)
+
 
 ---
 
@@ -131,4 +131,4 @@ python3 fantasy.py
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
-[Back To The Top](#description)
+[Back To The Top](#Fantasy-Cricket-Application)
