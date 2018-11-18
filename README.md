@@ -45,9 +45,11 @@ You're sections headers will be used to reference location of destination.
   * Only a Single Wicket Keeper
 
 
-## How To Use
-
-#### Installation
+## Installation
+* install `PyQt5` python library using pip
+> pip install PyQt5
+or 
+> pip3 install PyQt5
 
 
 
