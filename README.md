@@ -18,7 +18,7 @@ You're sections headers will be used to reference location of destination.
 - [Installation](#installation)
 - [Code Snippet](#code-snippet)
 - [Getting Started](#getting-started)
-- [Tools/References](#tools/references)
+- [Tools](#tools)
 
 
 
@@ -107,7 +107,8 @@ git clone https://github.com/dilip29/Summer-Training-Python-development/
 python3 fantasy.py
 ```
 
-## Tools/References
+## Tools
+### References
 * [Atom](https://atom.io/)
 * [SqlitStudio](https://sqlitestudio.pl/index.rvt)
 * [Internshala-Summer-Trainings](https://trainings.internshala.com/python-training)
