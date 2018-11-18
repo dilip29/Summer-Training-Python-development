@@ -13,12 +13,12 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
+- [Use of Badges](#use-of-badges)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Code Snippet](#code-snippet)
-- [Contributing](#contributing)
-- [License](#license)
+- [Getting Started](#getting-started)
+- [Tools/References](#tools/references)
 
 
 
@@ -36,6 +36,12 @@ You're sections headers will be used to reference location of destination.
 
 - For more on these wonderful `badges`, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
+
+
+![open_team](https://user-images.githubusercontent.com/40792388/48671417-d5656000-eb4d-11e8-8213-22cf1dfe20e2.gif)
+
+
+
 ## Features
   * Create your own dream team in Auction
   * Save your team and evaluate it later as per **Match**
@@ -43,9 +49,6 @@ You're sections headers will be used to reference location of destination.
   * Team selection follows basic cricketing rules 
   * Not more than 5 batsman/bowler
   * Only a Single Wicket Keeper
-
-
-![open_team](https://user-images.githubusercontent.com/40792388/48671417-d5656000-eb4d-11e8-8213-22cf1dfe20e2.gif)
 
 
 
@@ -68,6 +71,9 @@ pip3 install PyQt5
 
 
 
+[code](https://user-images.githubusercontent.com/40792388/48670940-042c0800-eb47-11e8-806a-5f8d76b803a9.gif)
+
+
 
 ## Code Snippet
 
@@ -81,7 +87,7 @@ pip3 install PyQt5
    spacerItem = QtWidgets.QSpacerItem(200, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
 ```
 
-![code](https://user-images.githubusercontent.com/40792388/48670940-042c0800-eb47-11e8-806a-5f8d76b803a9.gif)
+!
 
 
 
