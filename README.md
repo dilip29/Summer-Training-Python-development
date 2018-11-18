@@ -87,8 +87,26 @@ pip3 install PyQt5
 
 
 ---
+## Getting Started
+```
+git clone https://github.com/dilip29/Summer-Training-Python-development/
+```
+* install the required tools 
 
-## References
+* clone or download the repository 
+
+* run the following command in terminal
+
+```
+python3 fantasy.py
+```
+
+## Tools/References
+* [Atom](https://atom.io/)
+* [SqlitStudio](https://sqlitestudio.pl/index.rvt)
+* [Internshala-Summer-Trainings](https://trainings.internshala.com/python-training)
+* [Python](https://www.python.org/)
+
 [Back To The Top](#read-me-template)
 
 ---
