@@ -1,5 +1,5 @@
 # Fanatsy Cricket Application
-![screenshot from 2018-11-18 12-40-07](https://user-images.githubusercontent.com/40792388/48669654-29ad1780-eb2f-11e8-9357-9bd640057415.png)
+![screenshot from 2018-11-18 15-35-19](https://user-images.githubusercontent.com/40792388/48670998-a77d1d00-eb47-11e8-8561-a656d6441767.png)
 ----
 
 > This is a Fantasy cricket Desktop application build in python that allows user to build their own dream cricket team , analyse it and play !!!....Isn't it exciting.....
