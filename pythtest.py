@@ -13,7 +13,7 @@ else:
            print ("10% discount applicable")
            discount=amount*5/100
            amount=amount-discount
-        else:
+       else:
             if amount>10000:
                 print ("1% discount applicable")
                 discount=amount*1/100
